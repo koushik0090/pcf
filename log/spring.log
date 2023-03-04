@@ -1,0 +1,15 @@
+[INFO ] 23-02-17 19:28  c.d.a.ApivaultApplication - Starting ApivaultApplication using Java 15.0.1 on USHYDKSAIKOUSH3 with PID 32044 (C:\Users\ksaikoushik\Desktop\api vault\apivault\target\classes started by ksaikoushik in C:\Users\ksaikoushik\Desktop\api vault\apivault)
+[DEBUG] 23-02-17 19:28  c.d.a.ApivaultApplication - Running with Spring Boot v2.6.7, Spring v5.3.19
+[INFO ] 23-02-17 19:28  c.d.a.ApivaultApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 23-02-17 19:28  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 23-02-17 19:28  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 23-02-17 19:28  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+[INFO ] 23-02-17 19:28  o.a.c.c.StandardService - Starting service [Tomcat]
+[INFO ] 23-02-17 19:28  o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+[INFO ] 23-02-17 19:28  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 23-02-17 19:28  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1436 ms
+[INFO ] 23-02-17 19:29  o.s.s.w.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@63f43259, org.springframework.security.web.context.SecurityContextPersistenceFilter@302b8943, org.springframework.security.web.header.HeaderWriterFilter@267415b5, org.springframework.web.filter.CorsFilter@2ea36215, org.springframework.security.web.authentication.logout.LogoutFilter@59906b14, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@5ca610ff, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@5e537a0a, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@61f561e8, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@51bc3019, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@33ffd4a6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@20699486, org.springframework.security.web.session.SessionManagementFilter@1691fab4, org.springframework.security.web.access.ExceptionTranslationFilter@1e49a592, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5a563a1a]
+[INFO ] 23-02-17 19:29  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 23-02-17 19:29  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+[INFO ] 23-02-17 19:29  c.d.a.ApivaultApplication - Started ApivaultApplication in 3.654 seconds (JVM running for 4.975)
+[INFO ] 23-02-17 19:39  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
